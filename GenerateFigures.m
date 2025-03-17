@@ -17,7 +17,7 @@ tuOrange=[255,153,0]/255;
 tuGray  =[86,86,86]/255;
 %% Figure 1: Visualization of data sets
 
-% Uncomment the following lines and comment line 24 to generate a new
+% Uncomment the following lines and comment line 26 to generate a new
 % data set. Otherwise, load the one used in the paper.
 % ell = 8;
 % D = randn(2, ell);
