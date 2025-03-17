@@ -4,9 +4,10 @@ Code for generating figures in the paper 'On Data Usage and Predictive Behavior 
 *Dependencies:* [MPT 3](https://www.mpt3.org/) is required for parametric optimization, and visualization of piecewise affine functions and polytopes.
 
 ## License
-
 The source code in this repository is shared under the MIT license. See the [LICENSE](./LICENSE) file.
 
 ## Citing
+Citing information will be added once the paper is publicly available.
 
-Citing information will be added once the paper is publically available.
+## How to use
+Run `GenerateFigures.m`. Doing so will use the same data samples as in the paper. To generate similar figures with new datasets, (un)comment the lines indicated in `GenerateFigures.m`.
